@@ -4,3 +4,10 @@
 body {
 	font-family: Verdana, sans-serif;
 }
+.super-title {
+	color: #666;
+}
+.heading {
+	color: #f07c17;
+	font-weight: bold;
+}
