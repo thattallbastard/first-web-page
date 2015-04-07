@@ -11,3 +11,31 @@ body {
 	color: #f07c17;
 	font-weight: bold;
 }
+.shrink-element {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.list-box {
+	margin-top: 25px;
+	margin-bottom: 100px;
+	border: solid 1px;
+	border-color: #ccc;
+	padding-bottom: 25px;
+}
+.list-box-heading-margin {
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.list-item {
+	margin-top: 10px;
+	padding-left: 30px;
+}
+
+
+
+
+
+
+
+
+
