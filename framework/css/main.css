@@ -1,6 +1,4 @@
-*{
-	outline: 1px solid red !important;
-}
+
 body {
 	font-family: Verdana, sans-serif;
 }
@@ -10,31 +8,79 @@ body {
 .heading {
 	color: #f07c17;
 	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	font-size: 24px;
+	padding-left: 9px;
 }
 .shrink-element {
 	padding-left: 15px;
 	padding-right: 15px;
 }
 .list-box {
-	margin-top: 25px;
+	margin-top: 24px;
 	margin-bottom: 100px;
+	margin-left: 8px;
 	border: solid 1px;
 	border-color: #ccc;
 	padding-bottom: 25px;
 }
 .list-box-heading-margin {
-	margin-top: 30px;
-	margin-bottom: 20px;
+	margin-top: 28px;
+	margin-bottom: 36px;
 }
 .list-item {
 	margin-top: 10px;
+	font-size: 16px;
 	
 }
 .double-space {
 	line-height: 2;
+	font-size: 16px;
 }
 .super-title-font {
-	font-size: 45px;
+	font-size: 48px;
+	padding-left: 18px;
+	margin-top: 19px;
+	margin-bottom: 11px;
+}
+.title-bottom {
+	margin-bottom: 20px;
+	margin-top: 26px;
+}
+.picture-box {
+	padding-right: 9px;
+}
+.picture {
+	padding-top: 3px;
+	padding-left: 3px;
+	padding-bottom: 2px;
+}
+.list-heading {
+	padding-left: 15px;
+}
+.list-style {
+	padding-left:56px;
+	margin-bottom: 18px;
+}
+.right-column {
+	padding-right: 6px;
+}
+.column-heading {
+	padding-left: 8px;
+	padding-top: 3px;
+}
+.paragraph {
+	padding-left: 9px;
+}
+.image-adj {
+	padding-right: 8px;
+}
+.mockup-overlay {
+    top: 0;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.4;
 }
 
 
